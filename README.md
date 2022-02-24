@@ -28,4 +28,3 @@ My name is Dylson Oliveira, I'm a dilligent and enthusiastic Full-Stack Web Deve
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylson14&show_icons=true&theme=tokyonight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylson14&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
