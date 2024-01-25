@@ -5,10 +5,10 @@ By degree, I'm a mechanical engineer, and yet somewhere along the way I found We
 
 I thrive in environments where personal and development is embraced, with a focus on equal opportunities as well as a place that fosters creativity and determination, allowing me to push myself and perform the best way I can.
 
-## Things about me outside of coding!
-* I like making YouTube videos travel and remote work!
-* I like to go on nature hikes, and I use the All-Trails app to find nice trails!
-* I've been getting into more fitness activities, the latest coll fitness activity I did was bouldering!
+## Things about me outside of coding! 🎉
+* I like making YouTube videos travel and remote work! 📀
+* I like to go on nature hikes, and I use the All-Trails app to find nice trails! 🏕️ 
+* I've been getting into more fitness activities, the latest coll fitness activity I did was bouldering! 🧗🏽‍♂️
 
 ## 🤹 Skills
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
