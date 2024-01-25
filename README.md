@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Dylson Oliveira, I'm a dilligent and enthusiastic Full-Stack Web Developer currently working as a Full-Stack Teaching Assistant at Edx. 
-By degree, I'm a mechanical engineer, and yet somewhere along the way I found Web Development, and I've been enjoying it ever since. Now I want to take my skills to the next level, so I'm seeking an opportunity to work in Web Development.
+By degree, I'm a mechanical engineer, and yet somewhere along the way I found Web Development, and I've been enjoying it ever since. Now I want to take my skills to the next level, so I'm seeking an opportunity to work in Web Development on exciting projects alongside a great team!
 
 I thrive in environments where personal and development is embraced, with a focus on equal opportunities as well as a place that fosters creativity and determination, allowing me to push myself and perform the best way I can.
 
