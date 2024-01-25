@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-My name is Dylson Oliveira, I'm a dilligent and enthusiastic Full-Stack Web Developer currently working as a Frontend Engineer at Century Tech. I'm an engineer through and through both software and mechanical (with the degree to prove it 😉) and I belive I was brought on this big blue marble to help people by solving problems. I thrive in environments where personal and development is embraced, with a focus on equal opportunities as well as a place that fosters creativity and determination, allowing me to push myself and perform the best way I can.
+My name is Dylson Oliveira, I'm a dilligent and enthusiastic Full-Stack Web Developer currently working as a Full-Stack Teaching Assistant at Edx. 
+By degree, I'm a mechanical engineer, and yet somewhere along the way I found Web Development, and I've been enjoying it, 
+
+I'm an engineer through and through both software and mechanical (with the degree to prove it 😉) and I belive I was brought on this big blue marble to help people by solving problems. I thrive in environments where personal and development is embraced, with a focus on equal opportunities as well as a place that fosters creativity and determination, allowing me to push myself and perform the best way I can.
 
 ## Things about me outside of coding!
 * I like making YouTube videos about motivation, productivity, tech and travel! It's also cool to share with my family and friends!
@@ -10,6 +13,7 @@ My name is Dylson Oliveira, I'm a dilligent and enthusiastic Full-Stack Web Deve
 
 ## 🤹 Skills
 
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
