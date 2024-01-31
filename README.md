@@ -8,7 +8,7 @@ I thrive in environments where personal and development is embraced, with a focu
 ## Things about me outside of coding! 🎉
 * I like making YouTube videos about travel and remote work! 📀
 * I like to go on nature hikes, and I use the All-Trails app to find nice trails! 🏕️ 
-* I've been getting into more fitness activities, the latest coll fitness activity I did was bouldering! 🧗🏽‍♂️
+* I've been getting into more fitness activities, the latest cool fitness activity I did was bouldering! 🧗🏽‍♂️
 
 ## 🤹 Skills
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
